@@ -3,8 +3,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-username = 'your_username'
-password = 'your_password'
+username = 'nishthac3'
+password = 'Nishtha@c3'
 
 chrome_driver_path = "/Users/administrator/Downloads/chromedriver_mac64/chromedriver"
 
