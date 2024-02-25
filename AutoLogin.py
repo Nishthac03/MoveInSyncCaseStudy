@@ -7,6 +7,7 @@ username = 'nishthac3'
 password = 'Nishtha@c3'
 
 chrome_driver_path = "/Users/administrator/Downloads/chromedriver_mac64/chromedriver"
+  # Put the link of local apth for chromedriver
 
 chrome_options = webdriver.ChromeOptions()
 chrome_options.binary_location = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
