@@ -1,6 +1,7 @@
 # Automate Login Script in Python
 
-<h1> This python script needs</h1> ```Chrome Driver```
+<b> This python script needs</b> 
+```Chrome Driver```
 <br>
 Install Chrome driver as per your system specification from the given link -> 
 ```https://chromedriver.storage.googleapis.com/index.html?path=113```
